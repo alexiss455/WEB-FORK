@@ -1,5 +1,5 @@
 
-//this is already edit
+//this is already edited
 
 const mongoose = require('mongoose');
 
